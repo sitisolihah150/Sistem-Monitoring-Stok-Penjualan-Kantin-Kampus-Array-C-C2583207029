@@ -108,7 +108,7 @@ Pengujian dilakukan berdasarkan 7 skenario yang terdapat pada soal tugas proyek.
 
 **Screenshot:**
 
-!(tambahproduk.png)
+![tambah produk](tambahproduk.png)
 
 ---
 
@@ -120,7 +120,7 @@ Pengujian dilakukan berdasarkan 7 skenario yang terdapat pada soal tugas proyek.
 
 **Screenshot:**
 
-![Transaksi](transaksi.png)
+![transaksi](transaksi.png)
 
 ---
 
