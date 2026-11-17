@@ -4,7 +4,7 @@
 ## IDENTITAS MAHASISWA
 
 - **Nama:** Siti Solihah
-- **NIM:** [C2583207029]
+- **NIM:** C2583207029
 - **Kelas:** PTI 3A 
 - **Program Studi:** Pendidikan Teknologi Informasi
 - **Universitas:** Universitas Muhammadiyah Tasikmalaya
@@ -108,7 +108,7 @@ Pengujian dilakukan berdasarkan 7 skenario yang terdapat pada soal tugas proyek.
 
 **Screenshot:**
 
-![tambah produk](tambahproduk.png)
+!(tambahproduk.png)
 
 ---
 
