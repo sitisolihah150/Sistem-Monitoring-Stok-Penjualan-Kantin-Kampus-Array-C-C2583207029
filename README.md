@@ -3,7 +3,7 @@
 
 ## IDENTITAS MAHASISWA
 
-- **Nama:** [Siti Solihah]
+- **Nama:** Siti Solihah
 - **NIM:** [C2583207029]
 - **Kelas:** PTI 3A 
 - **Program Studi:** Pendidikan Teknologi Informasi
